@@ -1,0 +1,10 @@
+        .carousel {
+            max-width: 100%;
+            margin: 0 auto;
+            display: flex;
+        }
+        #imagen {
+            width: 10px;
+            height: 60px;
+            
+        }
